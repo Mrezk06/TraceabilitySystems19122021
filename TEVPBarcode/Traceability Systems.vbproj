@@ -1,0 +1,2533 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{75CA9FBD-8F08-485B-AF90-B9EC4975A6E2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>TEVPBarcode.My.MyApplication</StartupObject>
+    <RootNamespace>TEVPBarcode</RootNamespace>
+    <AssemblyName>Traceability Systems</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>C:\Users\mrezk06\Desktop\MRETS\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Traceability Systems.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Traceability Systems.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>image\if_program-group_31273.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>872D643DB2CEBB3F4915342A2211B4780F3C98B3</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Traceability Systems_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Traceability Systems.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Traceability Systems.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>Traceability Systems.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>Traceability Systems.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.WMPLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\mrezk06\Desktop\AxInterop.WMPLib.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Users\mrezk06\Desktop\Interop.WMPLib.dll</HintPath>
+    </Reference>
+    <Reference Include="IrisSkin2">
+      <HintPath>..\Skine Files\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.InfoPath.Permission, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Tools.Excel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Tools.Excel.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="After_Sales\frmAfterSales_AddNewInformation.Designer.vb">
+      <DependentUpon>frmAfterSales_AddNewInformation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="After_Sales\frmAfterSales_AddNewInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="After_Sales\frmAfterSales_DashBoard.Designer.vb">
+      <DependentUpon>frmAfterSales_DashBoard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="After_Sales\frmAfterSales_DashBoard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="After_Sales\frmAfterSales_Login.Designer.vb">
+      <DependentUpon>frmAfterSales_Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="After_Sales\frmAfterSales_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="After_Sales\frmAfter_Sales_Main.Designer.vb">
+      <DependentUpon>frmAfter_Sales_Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="After_Sales\frmAfter_Sales_Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="After_Sales\frmAfter_Sales_Repair.Designer.vb">
+      <DependentUpon>frmAfter_Sales_Repair.vb</DependentUpon>
+    </Compile>
+    <Compile Include="After_Sales\frmAfter_Sales_Repair.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="After_Sales\frmAfter_Sales_Repair_Query.Designer.vb">
+      <DependentUpon>frmAfter_Sales_Repair_Query.vb</DependentUpon>
+    </Compile>
+    <Compile Include="After_Sales\frmAfter_Sales_Repair_Query.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="barcodeDataSet.vb">
+      <DependentUpon>barcodeDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="barcodeDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>barcodeDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="barcodeDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>barcodeDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="barcodeDataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>barcodeDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\aquTestTest.Designer.vb">
+      <DependentUpon>aquTestTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\aquTestTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\aquTestTest1.Designer.vb">
+      <DependentUpon>aquTestTest1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\aquTestTest1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\aquTestTestQuery.Designer.vb">
+      <DependentUpon>aquTestTestQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\aquTestTestQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\aquTestTestQuery1.Designer.vb">
+      <DependentUpon>aquTestTestQuery1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\aquTestTestQuery1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\aquTestTestQuery1Show.Designer.vb">
+      <DependentUpon>aquTestTestQuery1Show.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\aquTestTestQuery1Show.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\aquTestTestQueryShow.Designer.vb">
+      <DependentUpon>aquTestTestQueryShow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\aquTestTestQueryShow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmarduino.Designer.vb">
+      <DependentUpon>frmarduino.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmarduino.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmATPM.Designer.vb">
+      <DependentUpon>frmATPM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmATPM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmATQ_QueryNew.Designer.vb">
+      <DependentUpon>frmATQ_QueryNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmATQ_QueryNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmCookerLogin.Designer.vb">
+      <DependentUpon>frmCookerLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmCookerLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmCookerTimeStudy.Designer.vb">
+      <DependentUpon>frmCookerTimeStudy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmCookerTimeStudy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmCookerTimeStudyQuery.Designer.vb">
+      <DependentUpon>frmCookerTimeStudyQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmCookerTimeStudyQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmDBT.Designer.vb">
+      <DependentUpon>frmDBT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmDBT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmMicroWave.Designer.vb">
+      <DependentUpon>frmMicroWave.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmMicroWave.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmMicrowaveFinishGood.Designer.vb">
+      <DependentUpon>frmMicrowaveFinishGood.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmMicrowaveFinishGood.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\TesEX.vb" />
+    <Compile Include="DataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmCarWQty.Designer.vb">
+      <DependentUpon>frmCarWQty.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmCarWQty.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmCookerAddNewInformation.Designer.vb">
+      <DependentUpon>frmCookerAddNewInformation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmCookerAddNewInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmCookerAddNewModel.Designer.vb">
+      <DependentUpon>frmCookerAddNewModel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmCookerAddNewModel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmCookerDashBoard.Designer.vb">
+      <DependentUpon>frmCookerDashBoard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmCookerDashBoard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmCookerFinishGood.Designer.vb">
+      <DependentUpon>frmCookerFinishGood.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmCookerFinishGood.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmcookerFinishGoodQuery.Designer.vb">
+      <DependentUpon>frmcookerFinishGoodQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmcookerFinishGoodQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmcookerMainManu.Designer.vb">
+      <DependentUpon>frmcookerMainManu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmcookerMainManu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmCookerOutPutQuery.Designer.vb">
+      <DependentUpon>frmCookerOutPutQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmCookerOutPutQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmCookerQuality.Designer.vb">
+      <DependentUpon>frmCookerQuality.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmCookerQuality.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmCookerQualityQuery.Designer.vb">
+      <DependentUpon>frmCookerQualityQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmCookerQualityQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmCookerQueryRepair.Designer.vb">
+      <DependentUpon>frmCookerQueryRepair.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmCookerQueryRepair.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmCookerRepair.Designer.vb">
+      <DependentUpon>frmCookerRepair.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmCookerRepair.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmcookerscdule.Designer.vb">
+      <DependentUpon>frmcookerscdule.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmcookerscdule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmOutPutLine.Designer.vb">
+      <DependentUpon>frmOutPutLine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmOutPutLine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmpaint.Designer.vb">
+      <DependentUpon>frmpaint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmpaint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmpressier.Designer.vb">
+      <DependentUpon>frmpressier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmpressier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\frmPWH.Designer.vb">
+      <DependentUpon>frmPWH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\frmPWH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\FRMTESTONLINE.Designer.vb">
+      <DependentUpon>FRMTESTONLINE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\FRMTESTONLINE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\LoginCooker.Designer.vb">
+      <DependentUpon>LoginCooker.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cooker\LoginCooker.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cooker\Type.vb" />
+    <Compile Include="DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.vb">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet3.vb">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\frmfollowupsv.Designer.vb">
+      <DependentUpon>frmfollowupsv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\frmfollowupsv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\frmMainForOutPut.Designer.vb">
+      <DependentUpon>frmMainForOutPut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\frmMainForOutPut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\frmqueryfollowUPsv.Designer.vb">
+      <DependentUpon>frmqueryfollowUPsv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\frmqueryfollowUPsv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\WH\frmFinishGoodWH3.Designer.vb">
+      <DependentUpon>frmFinishGoodWH3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\WH\frmFinishGoodWH3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\WH\frmQFinishGoodWH2.Designer.vb">
+      <DependentUpon>frmQFinishGoodWH2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\WH\frmQFinishGoodWH2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\frmSony.Designer.vb">
+      <DependentUpon>frmSony.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\frmSony.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\LoginOutP.Designer.vb">
+      <DependentUpon>LoginOutP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\LoginOutP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\frmshowdataforfinishgood.Designer.vb">
+      <DependentUpon>frmshowdataforfinishgood.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\frmshowdataforfinishgood.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\frmaddmodelandlebar.Designer.vb">
+      <DependentUpon>frmaddmodelandlebar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\frmaddmodelandlebar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\frmshow_plan.Designer.vb">
+      <DependentUpon>frmshow_plan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\frmshow_plan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\WH\frmFinishGoodWH.Designer.vb">
+      <DependentUpon>frmFinishGoodWH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\WH\frmFinishGoodWH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\WH\frmFinishGoodWH22.Designer.vb">
+      <DependentUpon>frmFinishGoodWH22.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\WH\frmFinishGoodWH22.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\WH\frmQFinishGoodWH3.Designer.vb">
+      <DependentUpon>frmQFinishGoodWH3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\WH\frmQFinishGoodWH3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainPrograms.Designer.vb">
+      <DependentUpon>frmMainPrograms.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainPrograms.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\WH\frmQFinishGoodWH1.Designer.vb">
+      <DependentUpon>frmQFinishGoodWH1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\WH\frmQFinishGoodWH1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmrdlc.Designer.vb">
+      <DependentUpon>frmrdlc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmrdlc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShowWash.Designer.vb">
+      <DependentUpon>frmShowWash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmShowWash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterAddData.Designer.vb">
+      <DependentUpon>frmHeaterAddData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterAddData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterDashBoard.Designer.vb">
+      <DependentUpon>frmHeaterDashBoard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterDashBoard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterFinishGoodMFG.Designer.vb">
+      <DependentUpon>frmHeaterFinishGoodMFG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterFinishGoodMFG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterFinishGoodMFGQuery.Designer.vb">
+      <DependentUpon>frmHeaterFinishGoodMFGQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterFinishGoodMFGQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterLoginP.Designer.vb">
+      <DependentUpon>frmHeaterLoginP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterLoginP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\FrmHeaterLoginV00.Designer.vb">
+      <DependentUpon>FrmHeaterLoginV00.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\FrmHeaterLoginV00.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\FrmHeaterMainV00.Designer.vb">
+      <DependentUpon>FrmHeaterMainV00.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\FrmHeaterMainV00.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterRepairQuery.Designer.vb">
+      <DependentUpon>frmHeaterRepairQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterRepairQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterRepairReg.Designer.vb">
+      <DependentUpon>frmHeaterRepairReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterRepairReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterScdule.Designer.vb">
+      <DependentUpon>frmHeaterScdule.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterScdule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterStepOneQuery.Designer.vb">
+      <DependentUpon>frmHeaterStepOneQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterStepOneQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\FrmHeaterStepOneReg.Designer.vb">
+      <DependentUpon>FrmHeaterStepOneReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\FrmHeaterStepOneReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\FrmHeaterStepThreeQuery.Designer.vb">
+      <DependentUpon>FrmHeaterStepThreeQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\FrmHeaterStepThreeQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\FrmHeaterStepThreeReg.Designer.vb">
+      <DependentUpon>FrmHeaterStepThreeReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\FrmHeaterStepThreeReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterStepTwoOfflinQuery.Designer.vb">
+      <DependentUpon>frmHeaterStepTwoOfflinQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterStepTwoOfflinQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterStepTwoOfflinReg.Designer.vb">
+      <DependentUpon>frmHeaterStepTwoOfflinReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\frmHeaterStepTwoOfflinReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\FrmHeaterStepTwoQuery.Designer.vb">
+      <DependentUpon>FrmHeaterStepTwoQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\FrmHeaterStepTwoQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaterV00\FrmHeaterStepTwoReg.Designer.vb">
+      <DependentUpon>FrmHeaterStepTwoReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HeaterV00\FrmHeaterStepTwoReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Heater\Heater_out_put.Designer.vb">
+      <DependentUpon>Heater_out_put.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Heater\Heater_out_put.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kaizen\frmEditRe.Designer.vb">
+      <DependentUpon>frmEditRe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Kaizen\frmEditRe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kaizen\frmLogenKaizen.Designer.vb">
+      <DependentUpon>frmLogenKaizen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Kaizen\frmLogenKaizen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kaizen\frmMainKaizen.Designer.vb">
+      <DependentUpon>frmMainKaizen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Kaizen\frmMainKaizen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kaizen\frmReqServ.Designer.vb">
+      <DependentUpon>frmReqServ.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Kaizen\frmReqServ.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kaizen\frmTicketSys.Designer.vb">
+      <DependentUpon>frmTicketSys.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Kaizen\frmTicketSys.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PCB\frmAddDataLEDBAR.Designer.vb">
+      <DependentUpon>frmAddDataLEDBAR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PCB\frmAddDataLEDBAR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PCB\frmMainToPCB_LEDBAR.Designer.vb">
+      <DependentUpon>frmMainToPCB_LEDBAR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PCB\frmMainToPCB_LEDBAR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PCB\frmPCBInput.Designer.vb">
+      <DependentUpon>frmPCBInput.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PCB\frmPCBInput.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PCB\frmPCBOutput.Designer.vb">
+      <DependentUpon>frmPCBOutput.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PCB\frmPCBOutput.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PCB\frmQuery_PCB_Input.Designer.vb">
+      <DependentUpon>frmQuery_PCB_Input.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PCB\frmQuery_PCB_Input.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PCB\frmQuery_PCB_Output.Designer.vb">
+      <DependentUpon>frmQuery_PCB_Output.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PCB\frmQuery_PCB_Output.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PCB\frmShowData_PCB.Designer.vb">
+      <DependentUpon>frmShowData_PCB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PCB\frmShowData_PCB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Qulity\FrmNEWtESTrEQ.Designer.vb">
+      <DependentUpon>FrmNEWtESTrEQ.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Qulity\FrmNEWtESTrEQ.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Qulity\frmQueryNewtest.Designer.vb">
+      <DependentUpon>frmQueryNewtest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Qulity\frmQueryNewtest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Qulity\frmQuerytestforquallity.Designer.vb">
+      <DependentUpon>frmQuerytestforquallity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Qulity\frmQuerytestforquallity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Qulity\frmtestforquallity.Designer.vb">
+      <DependentUpon>frmtestforquallity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Qulity\frmtestforquallity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigeratorAddNewModel.Designer.vb">
+      <DependentUpon>frmRefrigeratorAddNewModel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigeratorAddNewModel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigeratorCreateDoor.Designer.vb">
+      <DependentUpon>frmRefrigeratorCreateDoor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigeratorCreateDoor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigeratorCreateUser.Designer.vb">
+      <DependentUpon>frmRefrigeratorCreateUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigeratorCreateUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigeratorLogin.Designer.vb">
+      <DependentUpon>frmRefrigeratorLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigeratorLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigeratorShiftEdit.Designer.vb">
+      <DependentUpon>frmRefrigeratorShiftEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigeratorShiftEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigeratorMain.Designer.vb">
+      <DependentUpon>frmRefrigeratorMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigeratorMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigerator_Body_Completed.Designer.vb">
+      <DependentUpon>frmRefrigerator_Body_Completed.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigerator_Body_Completed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigerator_Body_CompletedQuery.Designer.vb">
+      <DependentUpon>frmRefrigerator_Body_CompletedQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigerator_Body_CompletedQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigerator_outPutLine.Designer.vb">
+      <DependentUpon>frmRefrigerator_outPutLine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigerator_outPutLine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigerator_OutPutLine_B.Designer.vb">
+      <DependentUpon>frmRefrigerator_OutPutLine_B.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigerator_OutPutLine_B.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigerator_SW_RE.Designer.vb">
+      <DependentUpon>frmRefrigerator_SW_RE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Refrigerator factory\frmRefrigerator_SW_RE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrigerator factory\RefrigeratorDoorQuery.Designer.vb">
+      <DependentUpon>RefrigeratorDoorQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Refrigerator factory\RefrigeratorDoorQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrigerator factory\RefrigeratorOutPutQuery.Designer.vb">
+      <DependentUpon>RefrigeratorOutPutQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Refrigerator factory\RefrigeratorOutPutQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrigerator factory\test.Designer.vb">
+      <DependentUpon>test.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Refrigerator factory\test.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\DataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmEvaluation.Designer.vb">
+      <DependentUpon>frmEvaluation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmEvaluation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\frmLoginRestaurant.Designer.vb">
+      <DependentUpon>frmLoginRestaurant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmLoginRestaurant.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\frmmefpntr.Designer.vb">
+      <DependentUpon>frmmefpntr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmmefpntr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\frmNCANDNM.Designer.vb">
+      <DependentUpon>frmNCANDNM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmNCANDNM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\frmpromassionresturant.Designer.vb">
+      <DependentUpon>frmpromassionresturant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmpromassionresturant.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\frmQueryOnVIPResturant.Designer.vb">
+      <DependentUpon>frmQueryOnVIPResturant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmQueryOnVIPResturant.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\frmrecipymea0001.Designer.vb">
+      <DependentUpon>frmrecipymea0001.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmrecipymea0001.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\frmreportresturant.Designer.vb">
+      <DependentUpon>frmreportresturant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmreportresturant.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\frmRestaurantMain.Designer.vb">
+      <DependentUpon>frmRestaurantMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmRestaurantMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\frmRestaurantReceipt.Designer.vb">
+      <DependentUpon>frmRestaurantReceipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmRestaurantReceipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\frmrestuarantupdatearea.Designer.vb">
+      <DependentUpon>frmrestuarantupdatearea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmrestuarantupdatearea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\frmresturantdashboard.Designer.vb">
+      <DependentUpon>frmresturantdashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmresturantdashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PCB\frmLEDBAR_Packing.Designer.vb">
+      <DependentUpon>frmLEDBAR_Packing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PCB\frmLEDBAR_Packing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\frmResturantQueryUser.Designer.vb">
+      <DependentUpon>frmResturantQueryUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmResturantQueryUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\frmresturantvib.Designer.vb">
+      <DependentUpon>frmresturantvib.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmresturantvib.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\frmvimrecipitmeal.Designer.vb">
+      <DependentUpon>frmvimrecipitmeal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmvimrecipitmeal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptfg.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptfg.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Sap_Sher.vb" />
+    <Compile Include="SHA\frmSHA_AddDataToRepair.Designer.vb">
+      <DependentUpon>frmSHA_AddDataToRepair.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SHA\frmSHA_AddDataToRepair.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHA\frmSHA_AddingNewInformation.Designer.vb">
+      <DependentUpon>frmSHA_AddingNewInformation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SHA\frmSHA_AddingNewInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHA\frmSHA_AddScdule.Designer.vb">
+      <DependentUpon>frmSHA_AddScdule.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SHA\frmSHA_AddScdule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHA\frmSHA_DashBoard.Designer.vb">
+      <DependentUpon>frmSHA_DashBoard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SHA\frmSHA_DashBoard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHA\frmSHA_Input.Designer.vb">
+      <DependentUpon>frmSHA_Input.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SHA\frmSHA_Input.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHA\frmSHA_InputQuery.Designer.vb">
+      <DependentUpon>frmSHA_InputQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SHA\frmSHA_InputQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHA\frmSHA_OutputQuery.Designer.vb">
+      <DependentUpon>frmSHA_OutputQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SHA\frmSHA_OutputQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHA\frmSHA_AddModel.Designer.vb">
+      <DependentUpon>frmSHA_AddModel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SHA\frmSHA_AddModel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHA\frmSHA_Main.Designer.vb">
+      <DependentUpon>frmSHA_Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SHA\frmSHA_Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHA\frmSHA_Login.Designer.vb">
+      <DependentUpon>frmSHA_Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SHA\frmSHA_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHA\frmSHA_Output.Designer.vb">
+      <DependentUpon>frmSHA_Output.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SHA\frmSHA_Output.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHA\frmSHA_Repair.Designer.vb">
+      <DependentUpon>frmSHA_Repair.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SHA\frmSHA_Repair.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHA\frmSHA_RepairQuery.Designer.vb">
+      <DependentUpon>frmSHA_RepairQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SHA\frmSHA_RepairQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\frmQueryRunRate.Designer.vb">
+      <DependentUpon>frmQueryRunRate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\frmQueryRunRate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\frmRunRate.Designer.vb">
+      <DependentUpon>frmRunRate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\frmRunRate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\frmTVLogin.Designer.vb">
+      <DependentUpon>frmTVLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\frmTVLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmAddingNewInformation.Designer.vb">
+      <DependentUpon>frmAddingNewInformation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmAddingNewInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\frmChosemenu.Designer.vb">
+      <DependentUpon>frmChosemenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\frmChosemenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmEditNameLaber.Designer.vb">
+      <DependentUpon>frmEditNameLaber.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmEditNameLaber.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmFollowUpLaber.Designer.vb">
+      <DependentUpon>frmFollowUpLaber.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmFollowUpLaber.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmFollowupQuery.Designer.vb">
+      <DependentUpon>frmFollowupQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmFollowupQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmFollowUpTest.Designer.vb">
+      <DependentUpon>frmFollowUpTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmFollowUpTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmLCMRepair.Designer.vb">
+      <DependentUpon>frmLCMRepair.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmLCMRepair.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmMainRepair.Designer.vb">
+      <DependentUpon>frmMainRepair.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmMainRepair.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmQueryFollowUPLaber.Designer.vb">
+      <DependentUpon>frmQueryFollowUPLaber.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmQueryFollowUPLaber.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmQueryRepair.Designer.vb">
+      <DependentUpon>frmQueryRepair.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\Repair\frmQueryRepair.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\Repair\XlFileFormat.vb" />
+    <Compile Include="Transport_traffic\frmCar_Oil.Designer.vb">
+      <DependentUpon>frmCar_Oil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transport_traffic\frmCar_Oil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transport_traffic\frmDailyMaintenance_and_garage.Designer.vb">
+      <DependentUpon>frmDailyMaintenance_and_garage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transport_traffic\frmDailyMaintenance_and_garage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transport_traffic\frmDailySVShipping.Designer.vb">
+      <DependentUpon>frmDailySVShipping.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transport_traffic\frmDailySVShipping.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transport_traffic\frmDailyTransport_traffic.Designer.vb">
+      <DependentUpon>frmDailyTransport_traffic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transport_traffic\frmDailyTransport_traffic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transport_traffic\frmDashBoardTransportTraffic.Designer.vb">
+      <DependentUpon>frmDashBoardTransportTraffic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transport_traffic\frmDashBoardTransportTraffic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transport_traffic\frmloginTransport_traffic.Designer.vb">
+      <DependentUpon>frmloginTransport_traffic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transport_traffic\frmloginTransport_traffic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transport_traffic\frmMainTransport_Traffic.Designer.vb">
+      <DependentUpon>frmMainTransport_Traffic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transport_traffic\frmMainTransport_Traffic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transport_traffic\frmQueryTransport_Traffic.Designer.vb">
+      <DependentUpon>frmQueryTransport_Traffic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transport_traffic\frmQueryTransport_Traffic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\frmdashboard.Designer.vb">
+      <DependentUpon>frmdashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\frmdashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\frmMainWashingMachine.Designer.vb">
+      <DependentUpon>frmMainWashingMachine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\frmMainWashingMachine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\frmrptrdlc2.Designer.vb">
+      <DependentUpon>frmrptrdlc2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\frmrptrdlc2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\frmWashingMachineStepInput.Designer.vb">
+      <DependentUpon>frmWashingMachineStepInput.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\frmWashingMachineStepInput.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\frmWashingMachineStepInputQuery.Designer.vb">
+      <DependentUpon>frmWashingMachineStepInputQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\frmWashingMachineStepInputQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\frmWashingMachineStepOutput.Designer.vb">
+      <DependentUpon>frmWashingMachineStepOutput.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\frmWashingMachineStepOutput.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\frmWashingMachineStepQuery.Designer.vb">
+      <DependentUpon>frmWashingMachineStepQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\frmWashingMachineStepQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\frmWMDashBoard.Designer.vb">
+      <DependentUpon>frmWMDashBoard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\frmWMDashBoard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\Loginwash.Designer.vb">
+      <DependentUpon>Loginwash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\Loginwash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Qulity\frmMainQulity.Designer.vb">
+      <DependentUpon>frmMainQulity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Qulity\frmMainQulity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Qulity\LoginQulity.Designer.vb">
+      <DependentUpon>LoginQulity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Qulity\LoginQulity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant\rptRdlc.Designer.vb">
+      <DependentUpon>rptRdlc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant\rptRdlc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\LoginTEVP.Designer.vb">
+      <DependentUpon>LoginTEVP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\LoginTEVP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\editdata.Designer.vb">
+      <DependentUpon>editdata.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\editdata.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\FINISHGOOD.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FINISHGOOD.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TEVP\frmFat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\frmFat.Designer.vb">
+      <DependentUpon>frmFat.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\frmAbout.Designer.vb">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\frmaboutheater.Designer.vb">
+      <DependentUpon>frmaboutheater.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\frmaboutheater.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\frmAddData.Designer.vb">
+      <DependentUpon>frmAddData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\frmAddData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\frmLCM1.Designer.vb">
+      <DependentUpon>frmLCM1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\frmLCM1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\frmOutp.Designer.vb">
+      <DependentUpon>frmOutp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\frmOutp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finish Good\frmQOutp.Designer.vb">
+      <DependentUpon>frmQOutp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finish Good\frmQOutp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\frmReport.Designer.vb">
+      <DependentUpon>frmReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\frmReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\Guidance.Designer.vb">
+      <DependentUpon>Guidance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\Guidance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\Heater_add_new_model.Designer.vb">
+      <DependentUpon>Heater_add_new_model.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\Heater_add_new_model.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Heater\Heater_main.Designer.vb">
+      <DependentUpon>Heater_main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Heater\Heater_main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Heater\Heater_Registration _step_four.Designer.vb">
+      <DependentUpon>Heater_Registration _step_four.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Heater\Heater_Registration _step_four.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Heater\Heater_Registration _step_one.Designer.vb">
+      <DependentUpon>Heater_Registration _step_one.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Heater\Heater_Registration _step_one.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\frmHeater_Registration _step_three.Designer.vb">
+      <DependentUpon>frmHeater_Registration _step_three.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\frmHeater_Registration _step_three.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\Heater_Registration _step_two.Designer.vb">
+      <DependentUpon>Heater_Registration _step_two.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\Heater_Registration _step_two.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Heater\Heater_Show_Target.Designer.vb">
+      <DependentUpon>Heater_Show_Target.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Heater\Heater_Show_Target.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Heater\Heater_Step_One_Query.Designer.vb">
+      <DependentUpon>Heater_Step_One_Query.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Heater\Heater_Step_One_Query.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\Heater_Step_Three_Query.Designer.vb">
+      <DependentUpon>Heater_Step_Three_Query.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\Heater_Step_Three_Query.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\Heater_Step_Two_Query.Designer.vb">
+      <DependentUpon>Heater_Step_Two_Query.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\Heater_Step_Two_Query.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\History.Designer.vb">
+      <DependentUpon>History.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\History.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\LED_BAR_barcode_structure.Designer.vb">
+      <DependentUpon>LED_BAR_barcode_structure.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\LED_BAR_barcode_structure.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Heater\LoginHeater.Designer.vb">
+      <DependentUpon>LoginHeater.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Heater\LoginHeater.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="TEVP\newshowforData.Designer.vb">
+      <DependentUpon>newshowforData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\newshowforData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Qulity\NotesForProblems.Designer.vb">
+      <DependentUpon>NotesForProblems.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Qulity\NotesForProblems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\q.Designer.vb">
+      <DependentUpon>q.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\q.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\QueryFat1.Designer.vb">
+      <DependentUpon>QueryFat1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\QueryFat1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Qulity\QueryforQulity.Designer.vb">
+      <DependentUpon>QueryforQulity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Qulity\QueryforQulity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Qulity\Qulity_in_Or_out.Designer.vb">
+      <DependentUpon>Qulity_in_Or_out.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Qulity\Qulity_in_Or_out.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\rptDate.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDate.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TEVP\scanningFat1.Designer.vb">
+      <DependentUpon>scanningFat1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\scanningFat1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sher.vb" />
+    <Compile Include="TEVP\showData.Designer.vb">
+      <DependentUpon>showData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\showData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\ShowTarget.Designer.vb">
+      <DependentUpon>ShowTarget.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\ShowTarget.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\ShowTEVP.Designer.vb">
+      <DependentUpon>ShowTEVP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\ShowTEVP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\ShowTEVP2.Designer.vb">
+      <DependentUpon>ShowTEVP2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\ShowTEVP2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEVP\Target.Designer.vb">
+      <DependentUpon>Target.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEVP\Target.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\LoginWM2.Designer.vb">
+      <DependentUpon>LoginWM2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\LoginWM2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Washing Machine\mainWashingMachine.Designer.vb">
+      <DependentUpon>mainWashingMachine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Washing Machine\mainWashingMachine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="After_Sales\frmAfterSales_AddNewInformation.resx">
+      <DependentUpon>frmAfterSales_AddNewInformation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="After_Sales\frmAfterSales_DashBoard.resx">
+      <DependentUpon>frmAfterSales_DashBoard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="After_Sales\frmAfterSales_Login.resx">
+      <DependentUpon>frmAfterSales_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="After_Sales\frmAfter_Sales_Main.resx">
+      <DependentUpon>frmAfter_Sales_Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="After_Sales\frmAfter_Sales_Repair.resx">
+      <DependentUpon>frmAfter_Sales_Repair.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="After_Sales\frmAfter_Sales_Repair_Query.resx">
+      <DependentUpon>frmAfter_Sales_Repair_Query.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\aquTestTest.resx">
+      <DependentUpon>aquTestTest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\aquTestTest1.resx">
+      <DependentUpon>aquTestTest1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\aquTestTestQuery.resx">
+      <DependentUpon>aquTestTestQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\aquTestTestQuery1.resx">
+      <DependentUpon>aquTestTestQuery1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\aquTestTestQuery1Show.resx">
+      <DependentUpon>aquTestTestQuery1Show.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\aquTestTestQueryShow.resx">
+      <DependentUpon>aquTestTestQueryShow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmarduino.resx">
+      <DependentUpon>frmarduino.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmATPM.resx">
+      <DependentUpon>frmATPM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmATQ_QueryNew.resx">
+      <DependentUpon>frmATQ_QueryNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmCarWQty.resx">
+      <DependentUpon>frmCarWQty.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmCookerAddNewInformation.resx">
+      <DependentUpon>frmCookerAddNewInformation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmCookerAddNewModel.resx">
+      <DependentUpon>frmCookerAddNewModel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmCookerDashBoard.resx">
+      <DependentUpon>frmCookerDashBoard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmCookerFinishGood.resx">
+      <DependentUpon>frmCookerFinishGood.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmcookerFinishGoodQuery.resx">
+      <DependentUpon>frmcookerFinishGoodQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmCookerLogin.resx">
+      <DependentUpon>frmCookerLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmcookerMainManu.resx">
+      <DependentUpon>frmcookerMainManu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmCookerOutPutQuery.resx">
+      <DependentUpon>frmCookerOutPutQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmCookerQuality.resx">
+      <DependentUpon>frmCookerQuality.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmCookerQualityQuery.resx">
+      <DependentUpon>frmCookerQualityQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmCookerQueryRepair.resx">
+      <DependentUpon>frmCookerQueryRepair.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmCookerRepair.resx">
+      <DependentUpon>frmCookerRepair.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmcookerscdule.resx">
+      <DependentUpon>frmcookerscdule.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmCookerTimeStudy.resx">
+      <DependentUpon>frmCookerTimeStudy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmCookerTimeStudyQuery.resx">
+      <DependentUpon>frmCookerTimeStudyQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmDBT.resx">
+      <DependentUpon>frmDBT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmMicroWave.resx">
+      <DependentUpon>frmMicroWave.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmMicrowaveFinishGood.resx">
+      <DependentUpon>frmMicrowaveFinishGood.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmOutPutLine.resx">
+      <DependentUpon>frmOutPutLine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmpaint.resx">
+      <DependentUpon>frmpaint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmpressier.resx">
+      <DependentUpon>frmpressier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\frmPWH.resx">
+      <DependentUpon>frmPWH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\FRMTESTONLINE.resx">
+      <DependentUpon>FRMTESTONLINE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cooker\LoginCooker.resx">
+      <DependentUpon>LoginCooker.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\frmfollowupsv.resx">
+      <DependentUpon>frmfollowupsv.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\frmMainForOutPut.resx">
+      <DependentUpon>frmMainForOutPut.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\frmqueryfollowUPsv.resx">
+      <DependentUpon>frmqueryfollowUPsv.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\WH\frmFinishGoodWH3.resx">
+      <DependentUpon>frmFinishGoodWH3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\WH\frmQFinishGoodWH2.resx">
+      <DependentUpon>frmQFinishGoodWH2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\frmSony.resx">
+      <DependentUpon>frmSony.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\LoginOutP.resx">
+      <DependentUpon>LoginOutP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\frmshowdataforfinishgood.resx">
+      <DependentUpon>frmshowdataforfinishgood.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\frmaddmodelandlebar.resx">
+      <DependentUpon>frmaddmodelandlebar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\frmshow_plan.resx">
+      <DependentUpon>frmshow_plan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\WH\frmFinishGoodWH.resx">
+      <DependentUpon>frmFinishGoodWH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\WH\frmFinishGoodWH22.resx">
+      <DependentUpon>frmFinishGoodWH22.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\WH\frmQFinishGoodWH3.resx">
+      <DependentUpon>frmQFinishGoodWH3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainPrograms.resx">
+      <DependentUpon>frmMainPrograms.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\WH\frmQFinishGoodWH1.resx">
+      <DependentUpon>frmQFinishGoodWH1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmrdlc.resx">
+      <DependentUpon>frmrdlc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShowWash.resx">
+      <DependentUpon>frmShowWash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\frmHeaterAddData.resx">
+      <DependentUpon>frmHeaterAddData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\frmHeaterDashBoard.resx">
+      <DependentUpon>frmHeaterDashBoard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\frmHeaterFinishGoodMFG.resx">
+      <DependentUpon>frmHeaterFinishGoodMFG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\frmHeaterFinishGoodMFGQuery.resx">
+      <DependentUpon>frmHeaterFinishGoodMFGQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\frmHeaterLoginP.resx">
+      <DependentUpon>frmHeaterLoginP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\FrmHeaterLoginV00.resx">
+      <DependentUpon>FrmHeaterLoginV00.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\FrmHeaterMainV00.resx">
+      <DependentUpon>FrmHeaterMainV00.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\frmHeaterRepairQuery.resx">
+      <DependentUpon>frmHeaterRepairQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\frmHeaterRepairReg.resx">
+      <DependentUpon>frmHeaterRepairReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\frmHeaterScdule.resx">
+      <DependentUpon>frmHeaterScdule.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\frmHeaterStepOneQuery.resx">
+      <DependentUpon>frmHeaterStepOneQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\FrmHeaterStepOneReg.resx">
+      <DependentUpon>FrmHeaterStepOneReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\FrmHeaterStepThreeQuery.resx">
+      <DependentUpon>FrmHeaterStepThreeQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\FrmHeaterStepThreeReg.resx">
+      <DependentUpon>FrmHeaterStepThreeReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\frmHeaterStepTwoOfflinQuery.resx">
+      <DependentUpon>frmHeaterStepTwoOfflinQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\frmHeaterStepTwoOfflinReg.resx">
+      <DependentUpon>frmHeaterStepTwoOfflinReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\FrmHeaterStepTwoQuery.resx">
+      <DependentUpon>FrmHeaterStepTwoQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaterV00\FrmHeaterStepTwoReg.resx">
+      <DependentUpon>FrmHeaterStepTwoReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Heater\Heater_out_put.resx">
+      <DependentUpon>Heater_out_put.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kaizen\frmEditRe.resx">
+      <DependentUpon>frmEditRe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kaizen\frmLogenKaizen.resx">
+      <DependentUpon>frmLogenKaizen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kaizen\frmMainKaizen.resx">
+      <DependentUpon>frmMainKaizen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kaizen\frmReqServ.resx">
+      <DependentUpon>frmReqServ.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kaizen\frmTicketSys.resx">
+      <DependentUpon>frmTicketSys.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PCB\frmAddDataLEDBAR.resx">
+      <DependentUpon>frmAddDataLEDBAR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PCB\frmMainToPCB_LEDBAR.resx">
+      <DependentUpon>frmMainToPCB_LEDBAR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PCB\frmPCBInput.resx">
+      <DependentUpon>frmPCBInput.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PCB\frmPCBOutput.resx">
+      <DependentUpon>frmPCBOutput.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PCB\frmQuery_PCB_Input.resx">
+      <DependentUpon>frmQuery_PCB_Input.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PCB\frmQuery_PCB_Output.resx">
+      <DependentUpon>frmQuery_PCB_Output.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PCB\frmShowData_PCB.resx">
+      <DependentUpon>frmShowData_PCB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Qulity\FrmNEWtESTrEQ.resx">
+      <DependentUpon>FrmNEWtESTrEQ.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Qulity\frmQueryNewtest.resx">
+      <DependentUpon>frmQueryNewtest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Qulity\frmQuerytestforquallity.resx">
+      <DependentUpon>frmQuerytestforquallity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Qulity\frmtestforquallity.resx">
+      <DependentUpon>frmtestforquallity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrigerator factory\frmRefrigeratorAddNewModel.resx">
+      <DependentUpon>frmRefrigeratorAddNewModel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrigerator factory\frmRefrigeratorCreateDoor.resx">
+      <DependentUpon>frmRefrigeratorCreateDoor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrigerator factory\frmRefrigeratorCreateUser.resx">
+      <DependentUpon>frmRefrigeratorCreateUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrigerator factory\frmRefrigeratorLogin.resx">
+      <DependentUpon>frmRefrigeratorLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrigerator factory\frmRefrigeratorShiftEdit.resx">
+      <DependentUpon>frmRefrigeratorShiftEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrigerator factory\frmRefrigeratorMain.resx">
+      <DependentUpon>frmRefrigeratorMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrigerator factory\frmRefrigerator_Body_Completed.resx">
+      <DependentUpon>frmRefrigerator_Body_Completed.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrigerator factory\frmRefrigerator_Body_CompletedQuery.resx">
+      <DependentUpon>frmRefrigerator_Body_CompletedQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrigerator factory\frmRefrigerator_outPutLine.resx">
+      <DependentUpon>frmRefrigerator_outPutLine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrigerator factory\frmRefrigerator_OutPutLine_B.resx">
+      <DependentUpon>frmRefrigerator_OutPutLine_B.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrigerator factory\frmRefrigerator_SW_RE.resx">
+      <DependentUpon>frmRefrigerator_SW_RE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrigerator factory\RefrigeratorDoorQuery.resx">
+      <DependentUpon>RefrigeratorDoorQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrigerator factory\RefrigeratorOutPutQuery.resx">
+      <DependentUpon>RefrigeratorOutPutQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrigerator factory\test.resx">
+      <DependentUpon>test.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report22.rdlc" />
+    <EmbeddedResource Include="Restaurant\frmEvaluation.resx">
+      <DependentUpon>frmEvaluation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\frmLoginRestaurant.resx">
+      <DependentUpon>frmLoginRestaurant.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\frmmefpntr.resx">
+      <DependentUpon>frmmefpntr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\frmNCANDNM.resx">
+      <DependentUpon>frmNCANDNM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\frmpromassionresturant.resx">
+      <DependentUpon>frmpromassionresturant.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\frmQueryOnVIPResturant.resx">
+      <DependentUpon>frmQueryOnVIPResturant.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\frmrecipymea0001.resx">
+      <DependentUpon>frmrecipymea0001.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\frmreportresturant.resx">
+      <DependentUpon>frmreportresturant.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\frmRestaurantMain.resx">
+      <DependentUpon>frmRestaurantMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\frmRestaurantReceipt.resx">
+      <DependentUpon>frmRestaurantReceipt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\frmrestuarantupdatearea.resx">
+      <DependentUpon>frmrestuarantupdatearea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\frmresturantdashboard.resx">
+      <DependentUpon>frmresturantdashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PCB\frmLEDBAR_Packing.resx">
+      <DependentUpon>frmLEDBAR_Packing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\frmResturantQueryUser.resx">
+      <DependentUpon>frmResturantQueryUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\frmresturantvib.resx">
+      <DependentUpon>frmresturantvib.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\frmvimrecipitmeal.resx">
+      <DependentUpon>frmvimrecipitmeal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\Report1.rdlc" />
+    <EmbeddedResource Include="Restaurant\Report2.rdlc" />
+    <EmbeddedResource Include="rptfg.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptfg.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHA\frmSHA_AddDataToRepair.resx">
+      <DependentUpon>frmSHA_AddDataToRepair.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHA\frmSHA_AddingNewInformation.resx">
+      <DependentUpon>frmSHA_AddingNewInformation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHA\frmSHA_AddModel.resx">
+      <DependentUpon>frmSHA_AddModel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHA\frmSHA_AddScdule.resx">
+      <DependentUpon>frmSHA_AddScdule.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHA\frmSHA_DashBoard.resx">
+      <DependentUpon>frmSHA_DashBoard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHA\frmSHA_Input.resx">
+      <DependentUpon>frmSHA_Input.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHA\frmSHA_InputQuery.resx">
+      <DependentUpon>frmSHA_InputQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHA\frmSHA_Login.resx">
+      <DependentUpon>frmSHA_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHA\frmSHA_Main.resx">
+      <DependentUpon>frmSHA_Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHA\frmSHA_Output.resx">
+      <DependentUpon>frmSHA_Output.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHA\frmSHA_OutputQuery.resx">
+      <DependentUpon>frmSHA_OutputQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHA\frmSHA_Repair.resx">
+      <DependentUpon>frmSHA_Repair.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHA\frmSHA_RepairQuery.resx">
+      <DependentUpon>frmSHA_RepairQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\frmQueryRunRate.resx">
+      <DependentUpon>frmQueryRunRate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\frmRunRate.resx">
+      <DependentUpon>frmRunRate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\frmTVLogin.resx">
+      <DependentUpon>frmTVLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\Repair\frmAddingNewInformation.resx">
+      <DependentUpon>frmAddingNewInformation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\frmChosemenu.resx">
+      <DependentUpon>frmChosemenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\Repair\frmEditNameLaber.resx">
+      <DependentUpon>frmEditNameLaber.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\Repair\frmFollowUpLaber.resx">
+      <DependentUpon>frmFollowUpLaber.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\Repair\frmFollowupQuery.resx">
+      <DependentUpon>frmFollowupQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\Repair\frmFollowUpTest.resx">
+      <DependentUpon>frmFollowUpTest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\Repair\frmLCMRepair.resx">
+      <DependentUpon>frmLCMRepair.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\Repair\frmMainRepair.resx">
+      <DependentUpon>frmMainRepair.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\Repair\frmQueryFollowUPLaber.resx">
+      <DependentUpon>frmQueryFollowUPLaber.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\Repair\frmQueryRepair.resx">
+      <DependentUpon>frmQueryRepair.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transport_traffic\frmCar_Oil.resx">
+      <DependentUpon>frmCar_Oil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transport_traffic\frmDailyMaintenance_and_garage.resx">
+      <DependentUpon>frmDailyMaintenance_and_garage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transport_traffic\frmDailySVShipping.resx">
+      <DependentUpon>frmDailySVShipping.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transport_traffic\frmDailyTransport_traffic.resx">
+      <DependentUpon>frmDailyTransport_traffic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transport_traffic\frmDashBoardTransportTraffic.resx">
+      <DependentUpon>frmDashBoardTransportTraffic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transport_traffic\frmloginTransport_traffic.resx">
+      <DependentUpon>frmloginTransport_traffic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transport_traffic\frmMainTransport_Traffic.resx">
+      <DependentUpon>frmMainTransport_Traffic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transport_traffic\frmQueryTransport_Traffic.resx">
+      <DependentUpon>frmQueryTransport_Traffic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\frmdashboard.resx">
+      <DependentUpon>frmdashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\frmMainWashingMachine.resx">
+      <DependentUpon>frmMainWashingMachine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\frmrptrdlc2.resx">
+      <DependentUpon>frmrptrdlc2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\frmWashingMachineStepInput.resx">
+      <DependentUpon>frmWashingMachineStepInput.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\frmWashingMachineStepInputQuery.resx">
+      <DependentUpon>frmWashingMachineStepInputQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\frmWashingMachineStepOutput.resx">
+      <DependentUpon>frmWashingMachineStepOutput.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\frmWashingMachineStepQuery.resx">
+      <DependentUpon>frmWashingMachineStepQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\frmWMDashBoard.resx">
+      <DependentUpon>frmWMDashBoard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\Loginwash.resx">
+      <DependentUpon>Loginwash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Qulity\frmMainQulity.resx">
+      <DependentUpon>frmMainQulity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Qulity\LoginQulity.resx">
+      <DependentUpon>LoginQulity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant\rptRdlc.resx">
+      <DependentUpon>rptRdlc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\LoginTEVP.resx">
+      <DependentUpon>LoginTEVP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\editdata.resx">
+      <DependentUpon>editdata.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\FINISHGOOD.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FINISHGOOD.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\frmFat.resx">
+      <DependentUpon>frmFat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\frmAbout.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\frmaboutheater.resx">
+      <DependentUpon>frmaboutheater.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\frmAddData.resx">
+      <DependentUpon>frmAddData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\frmLCM1.resx">
+      <DependentUpon>frmLCM1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\frmOutp.resx">
+      <DependentUpon>frmOutp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finish Good\frmQOutp.resx">
+      <DependentUpon>frmQOutp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\frmReport.resx">
+      <DependentUpon>frmReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\Guidance.resx">
+      <DependentUpon>Guidance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\Heater_add_new_model.resx">
+      <DependentUpon>Heater_add_new_model.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Heater\Heater_main.resx">
+      <DependentUpon>Heater_main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Heater\Heater_Registration _step_four.resx">
+      <DependentUpon>Heater_Registration _step_four.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Heater\Heater_Registration _step_one.resx">
+      <DependentUpon>Heater_Registration _step_one.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\frmHeater_Registration _step_three.resx">
+      <DependentUpon>frmHeater_Registration _step_three.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\Heater_Registration _step_two.resx">
+      <DependentUpon>Heater_Registration _step_two.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Heater\Heater_Show_Target.resx">
+      <DependentUpon>Heater_Show_Target.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Heater\Heater_Step_One_Query.resx">
+      <DependentUpon>Heater_Step_One_Query.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\Heater_Step_Three_Query.resx">
+      <DependentUpon>Heater_Step_Three_Query.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\Heater_Step_Two_Query.resx">
+      <DependentUpon>Heater_Step_Two_Query.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\History.resx">
+      <DependentUpon>History.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\LED_BAR_barcode_structure.resx">
+      <DependentUpon>LED_BAR_barcode_structure.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Heater\LoginHeater.resx">
+      <DependentUpon>LoginHeater.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\newshowforData.resx">
+      <DependentUpon>newshowforData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Qulity\NotesForProblems.resx">
+      <DependentUpon>NotesForProblems.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="image\obj\x86\Debug\TEVPBarcode.frmFat.resources" />
+    <EmbeddedResource Include="image\obj\x86\Debug\TEVPBarcode.Resources.resources" />
+    <EmbeddedResource Include="TEVP\q.resx">
+      <DependentUpon>q.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\QueryFat1.resx">
+      <DependentUpon>QueryFat1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Qulity\QueryforQulity.resx">
+      <DependentUpon>QueryforQulity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Qulity\Qulity_in_Or_out.resx">
+      <DependentUpon>Qulity_in_Or_out.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\rptDate.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDate.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\scanningFat1.resx">
+      <DependentUpon>scanningFat1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\showData.resx">
+      <DependentUpon>showData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\ShowTarget.resx">
+      <DependentUpon>ShowTarget.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\ShowTEVP.resx">
+      <DependentUpon>ShowTEVP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\ShowTEVP2.resx">
+      <DependentUpon>ShowTEVP2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEVP\Target.resx">
+      <DependentUpon>Target.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\LoginWM2.resx">
+      <DependentUpon>LoginWM2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Washing Machine\mainWashingMachine.resx">
+      <DependentUpon>mainWashingMachine.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="barcodeDataSet.xsc">
+      <DependentUpon>barcodeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="barcodeDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="barcodeDataSet.xss">
+      <DependentUpon>barcodeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="barcodeDataSet1.xsc">
+      <DependentUpon>barcodeDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="barcodeDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>barcodeDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="barcodeDataSet1.xss">
+      <DependentUpon>barcodeDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="barcodeDataSet2.xsc">
+      <DependentUpon>barcodeDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="barcodeDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>barcodeDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="barcodeDataSet2.xss">
+      <DependentUpon>barcodeDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="barcodeDataSet3.xsc">
+      <DependentUpon>barcodeDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="barcodeDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>barcodeDataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="barcodeDataSet3.xss">
+      <DependentUpon>barcodeDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet3.xsc">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet3.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet3.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet3.xss">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Finish Good\output.rpt" />
+    <None Include="image\IconsH\Barcode.icns" />
+    <None Include="image\IconsH\Checklist.icns" />
+    <None Include="image\IconsH\Delivery.icns" />
+    <None Include="image\IconsH\Graph.icns" />
+    <None Include="image\IconsH\Quality.icns" />
+    <None Include="image\IconsH\Receipt.icns" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="image\obj\x86\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="image\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="image\obj\x86\Debug\TEVPBarcode.vbproj.GenerateResource.Cache" />
+    <None Include="Restaurant\DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Restaurant\DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Restaurant\DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="image\41.png" />
+    <Content Include="image\Apps-preferences-desktop-user-password-icon.png" />
+    <Content Include="image\bc.jpg" />
+    <Content Include="image\chart.ico" />
+    <Content Include="image\if_App-06_1065716.ico" />
+    <Content Include="image\if_java_2333414.ico" />
+    <Content Include="image\if_launcher-program_24108.ico" />
+    <Content Include="image\if_program-group_31273.ico" />
+    <Content Include="image\obj\x86\Debug\bc.jpg" />
+    <Content Include="image\obj\x86\Debug\low.jpg" />
+    <Content Include="image\obj\x86\Debug\TempPE\My Project.Resources.Designer.vb.dll" />
+    <Content Include="image\obj\x86\Debug\TEVPBarcode.exe" />
+    <Content Include="image\obj\x86\Debug\TEVPBarcode.pdb" />
+    <Content Include="image\obj\x86\Debug\TEVPBarcode.vbproj.FileListAbsolute.txt" />
+    <Content Include="image\obj\x86\Debug\TEVPBarcode.xml" />
+    <Content Include="image\_41.png" />
+    <None Include="Resources\11.png" />
+    <None Include="Resources\RMFA.png" />
+    <None Include="Resources\ppntr.png" />
+    <None Include="Resources\cd9999999999999999999999.png" />
+    <None Include="Resources\images.png" />
+    <None Include="Resources\images %281%29.png" />
+    <None Include="Resources\images1.png" />
+    <None Include="Resources\download1.png" />
+    <None Include="Resources\download %281%29.png" />
+    <None Include="Resources\download %281%291.png" />
+    <None Include="Resources\images %281%291.png" />
+    <None Include="Resources\sharpnew.jpg" />
+    <None Include="Resources\1sghblfsg332g251l000.jpg" />
+    <None Include="Resources\1_630.jpg" />
+    <None Include="Resources\tornado-steam-iron-1800-watt-with-water-spray-teflon-soleplate-tst-1800.jpg" />
+    <None Include="Resources\images1.jpg" />
+    <None Include="Resources\tornado_blender_with_2_choppers_1.5_liter_500_watt_black-white_-_bl500-2.jpg" />
+    <None Include="Resources\download %281%29.jpg" />
+    <None Include="Resources\pic_971.jpg" />
+    <None Include="Resources\161990016555.png" />
+    <Content Include="Resources\ZQ.png" />
+    <None Include="Resources\_78RM.png" />
+    <None Include="Resources\_11RM.png" />
+    <None Include="Resources\_12RM.png" />
+    <None Include="Resources\_13RM.png" />
+    <None Include="Resources\_14RM.png" />
+    <None Include="Resources\_15RM.png" />
+    <None Include="Resources\_41RM.png" />
+    <None Include="Resources\_43RM.png" />
+    <None Include="Resources\_44RM.png" />
+    <None Include="Resources\_45RM.png" />
+    <None Include="Resources\_46RM.png" />
+    <None Include="Resources\_47RM.png" />
+    <None Include="Resources\_51RM.png" />
+    <None Include="Resources\_52RM.png" />
+    <None Include="Resources\_53RM.png" />
+    <None Include="Resources\_61RM.png" />
+    <None Include="Resources\_71RM.png" />
+    <None Include="Resources\_72RM.png" />
+    <None Include="Resources\_73RM.png" />
+    <None Include="Resources\_74RM.png" />
+    <None Include="Resources\_75RM.png" />
+    <None Include="Resources\_76RM.png" />
+    <None Include="Resources\_77RM.png" />
+    <None Include="Resources\_11RM1.png" />
+    <None Include="Resources\إدارة-المرتجعات.jpg" />
+    <Content Include="_41.png" />
+    <None Include="Resources\download.png" />
+    <None Include="Resources\depositphotos_38202437-stock-photo-icon-button-pictogram-eatery-restaurant.jpg" />
+    <None Include="Resources\Ocean-Prime-1.jpg" />
+    <None Include="Resources\67155578-healthy-restaurant-food-background-eating-right-concept-fresh-diet-daily-meals-delivery-fitness-nutr.jpg" />
+    <None Include="Resources\Choose-Music-according-to-restaurants-ambiance-696x464.jpg" />
+    <None Include="Resources\441.png" />
+    <None Include="Resources\44.png" />
+    <None Include="Resources\335.png" />
+    <None Include="Resources\33.png" />
+    <None Include="Resources\122-01.jpg" />
+    <None Include="Resources\amany.jpg" />
+    <None Include="Resources\tevp okok 411.jpg" />
+    <None Include="Resources\rzk.png" />
+    <None Include="Resources\ttttt-01.jpg" />
+    <None Include="Resources\tytryt.png" />
+    <None Include="Resources\gggg.png" />
+    <None Include="Resources\WWEWE.png" />
+    <None Include="Resources\WDW.png" />
+    <None Include="Resources\XSAXS.png" />
+    <None Include="Resources\رزق.png" />
+    <None Include="Resources\SSS.png" />
+    <None Include="Resources\ADS.png" />
+    <None Include="Resources\31.jpg" />
+    <None Include="Resources\hhhh.jpg" />
+    <None Include="Resources\يضصث.jpg" />
+    <None Include="Resources\dfffffffffffffffffff.png" />
+    <None Include="Resources\about us final version-0١.jpg" />
+    <None Include="Resources\about us final 1-0١.jpg" />
+    <None Include="Resources\tevp okok 11.jpg" />
+    <None Include="Resources\tevp okok 10.jpg" />
+    <None Include="Resources\tevp okok 9.jpg" />
+    <None Include="Resources\tevp okok 8.jpg" />
+    <None Include="Resources\tevp okok 7.jpg" />
+    <None Include="Resources\tevp okok 6.jpg" />
+    <None Include="Resources\tevp okok 5.jpg" />
+    <None Include="Resources\tevp okok 4.jpg" />
+    <None Include="Resources\tevp okok 3.jpg" />
+    <None Include="Resources\tevp okok 2.jpg" />
+    <None Include="Resources\tevp okok 1.jpg" />
+    <None Include="Resources\4.jpg" />
+    <None Include="Resources\3.jpg" />
+    <None Include="Resources\2.jpg" />
+    <None Include="Resources\11.jpg" />
+    <None Include="Resources\1.jpg" />
+    <None Include="Resources\tevp.jpg" />
+    <None Include="Resources\Button-Close-icon.png" />
+    <None Include="Resources\Apps-preferences-desktop-cryptography-icon.png" />
+    <None Include="Resources\bc.jpg" />
+    <None Include="Resources\Apps-preferences-desktop-user-password-icon.png" />
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AgentWmiLib">
+      <Guid>{0438D53A-9A57-423C-9E54-9612C4576257}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Access.Dao">
+      <Guid>{4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}</Guid>
+      <VersionMajor>12</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VSTOEE100">
+      <Guid>{AAB9C2AA-6036-4AE1-A41C-A40AB7F39520}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="CrystalDecisions.Windows.Forms">
+      <Version>1.0.0</Version>
+    </PackageReference>
+    <PackageReference Include="CrystalReports.Engine">
+      <Version>13.0.4001</Version>
+    </PackageReference>
+    <PackageReference Include="CrystalReports.ReportAppServer.CommLayer">
+      <Version>13.0.4001</Version>
+    </PackageReference>
+    <PackageReference Include="CrystalReports.ReportAppServer.CommonObjectModel">
+      <Version>13.0.4001</Version>
+    </PackageReference>
+    <PackageReference Include="CrystalReports.Windows.Forms">
+      <Version>13.0.4001</Version>
+    </PackageReference>
+    <PackageReference Include="DocumentFormat.OpenXml">
+      <Version>2.13.1</Version>
+    </PackageReference>
+    <PackageReference Include="ExcelDataReader">
+      <Version>3.6.0</Version>
+    </PackageReference>
+    <PackageReference Include="ExcelDataReader.DataSet">
+      <Version>3.6.0</Version>
+    </PackageReference>
+    <PackageReference Include="log4net">
+      <Version>2.0.12</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.IdentityModel.Logging">
+      <Version>6.11.1</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.IdentityModel.Tokens">
+      <Version>6.11.1</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.IdentityModel.Xml">
+      <Version>6.11.1</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Office.Interop.Excel">
+      <Version>15.0.4795.1000</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Reporting.WinForms.v11">
+      <Version>1.0.0</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.SqlServer.Types">
+      <Version>14.0.1016.290</Version>
+    </PackageReference>
+    <PackageReference Include="SharpZipLib">
+      <Version>1.3.2</Version>
+    </PackageReference>
+    <PackageReference Include="System.Xml.ReaderWriter">
+      <Version>4.3.1</Version>
+    </PackageReference>
+    <PackageReference Include="WMPLib">
+      <Version>1.0.0</Version>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

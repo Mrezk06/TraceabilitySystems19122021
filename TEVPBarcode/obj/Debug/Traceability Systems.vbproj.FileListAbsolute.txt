@@ -1,0 +1,1129 @@
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.exe.config
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.exe.manifest
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.application
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.exe
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.pdb
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.xml
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.Shared.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ShockwaveFlashObjects.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ExcelDataReader.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ExcelDataReader.pdb
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ExcelDataReader.DataSet.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\log4net.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.IdentityModel.Xml.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.ReportViewer.Design.DLL
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\FlashControlV71.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\IrisSkin2.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.Office.InfoPath.Permission.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.vbprojAssemblyReference.cache
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Interop.AgentWmiLib.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Interop.ExcelAdaptorLib.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Interop.ExcelClientPkgLib.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Interop.VSTOEE100.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.vbproj.ResolveComReference.cache
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTest.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTest1.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTestQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTestQuery1.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTestQuery1Show.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTestQueryShow.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmarduino.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmATPM.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmATQ_QueryNew.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCarWQty.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerAddNewInformation.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerAddNewModel.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerDashBoard.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerFinishGood.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmcookerFinishGoodQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerLogin.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmcookerMainManu.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerOutPutQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerQuality.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerQualityQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerQueryRepair.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerRepair.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmcookerscdule.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerTimeStudy.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerTimeStudyQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmDBT.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMicroWave.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCOOKEROutPutLine.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmpaint.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmpressier.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmPWH.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FRMTESTONLINE.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginCooker.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmfollowupsv.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainForOutPut.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmqueryfollowUPsv.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFinishGoodWH3.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQFinishGoodWH2.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSony.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginOutP.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmshowdataforfinishgood.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmaddmodelandlebar.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmshow_plan.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFinishGoodWH.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFinishGoodWH22.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQFinishGoodWH3.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainPrograms.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQFinishGoodWH1.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmrdlc.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmShowWash.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterAddData.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterDashBoard.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterFinishGoodMFG.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterFinishGoodMFGQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterLoginP.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterLoginV00.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterMainV00.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterRepairQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterRepairReg.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterScdule.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterStepOneQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterStepOneReg.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterStepThreeQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterStepThreeReg.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterStepTwoOfflinQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterStepTwoOfflinReg.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterStepTwoQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterStepTwoReg.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_out_put.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmEditRe.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmLogenKaizen.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainKaizen.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmReqServ.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmTicketSys.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAddDataLEDBAR.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmPCBInput.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmPCBOutput.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQuery_PCB_Input.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQuery_PCB_Output.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmShowData_PCB.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmNEWtESTrEQ.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryNewtest.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQuerytestforquallity.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmtestforquallity.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorAddNewModel.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorCreateDoor.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorCreateUser.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorLogin.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorLogin2.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorMain.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigerator_Body_Completed.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigerator_Body_CompletedQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigerator_outPutLine.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigerator_OutPutLine_B.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigerator_SW_RE.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.RefrigeratorDoorQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.RefrigeratorOutPutQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.test.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmEvaluation.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmLoginRestaurant.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmmefpntr.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmNCANDNM.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmpromassionresturant.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryOnVIPResturant.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmrecipymea0001.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmreportresturant.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRestaurantMain.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRestaurantReceipt.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmrestuarantupdatearea.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmresturantdashboard.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmLEDBAR_Packing.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmResturantQueryUser.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmresturantvib.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmvimrecipitmeal.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_AddDataToRepair.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_AddingNewInformation.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_AddModel.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_AddScdule.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_DashBoard.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_Login.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_Main.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_Output.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_OutputQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_Repair.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_RepairQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryRunRate.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRunRate.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmTVLogin.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAddingNewInformation.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmChosemenu.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmEditNameLaber.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFollowUpLaber.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFollowupQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFollowUpTest.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmLCMRepair.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainRepair.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryFollowUPLaber.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryRepair.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCar_Oil.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmDailyMaintenance_and_garage.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmDailySVShipping.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmDailyTransport_traffic.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmDashBoardTransportTraffic.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmloginTransport_traffic.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainTransport_Traffic.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryTransport_Traffic.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmdashboard.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainWashingMachine.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmrptrdlc2.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmWashingMachineStepInput.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmWashingMachineStepInputQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmWashingMachineStepOutput.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmWashingMachineStepQuery.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmWMDashBoard.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Loginwash.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainQulity.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginQulity.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.rptRdlc.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginTEVP.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.editdata.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFat.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAbout.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmaboutheater.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAddData.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmLCM1.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMain.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmOutp.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQOutp.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmReport.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmGuidance.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_add_new_model.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_main.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Registration__step_four.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Registration__step_one.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Registration__step_three.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Registration__step_two.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Show_Target.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Step_One_Query.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Step_Three_Query.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Step_Two_Query.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.History.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LED_BAR_barcode_structure.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginHeater.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Resources.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.newshowforData.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.NotesForProblems.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.q.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.QueryFat1.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.QueryforQulity.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Qulity_in_Or_out.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.scanningFat1.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.showData.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.ShowTarget.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.ShowTEVP.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.ShowTEVP2.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Target.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginWM2.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.mainWashingMachine.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.vbproj.GenerateResource.cache
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\RdlCompile.cache
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\RdlCompile.compiled
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.vbproj.CoreCompileInputs.cache
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.exe.manifest
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.application
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.vbproj.CopyComplete
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.exe
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.xml
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.pdb
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Interop.AcroPDFLib.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Interop.AcroPDFLib.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfterSales_AddNewInformation.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfterSales_DashBoard.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfterSales_Login.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfter_Sales_Main.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfter_Sales_Repair.resources
+E:\Projects\desktop\Traceability System New OK\OLD\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfter_Sales_Repair_Query.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.exe.config
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.exe.manifest
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.application
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.exe
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.pdb
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.xml
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\AxShockwaveFlashObjects.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.Shared.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ShockwaveFlashObjects.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\DocumentFormat.OpenXml.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ExcelDataReader.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ExcelDataReader.pdb
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ExcelDataReader.DataSet.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ExcelDataReader.DataSet.pdb
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\log4net.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.IdentityModel.Xml.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Interop.AcroPDFLib.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Interop.AcroPDFLib.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Interop.AgentWmiLib.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Interop.VSTOEE100.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.vbproj.ResolveComReference.cache
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfterSales_AddNewInformation.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfterSales_DashBoard.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfterSales_Login.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfter_Sales_Main.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfter_Sales_Repair.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfter_Sales_Repair_Query.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTest.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTest1.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTestQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTestQuery1.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTestQuery1Show.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTestQueryShow.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmarduino.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmATPM.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmATQ_QueryNew.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCarWQty.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerAddNewInformation.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerAddNewModel.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerDashBoard.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerFinishGood.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmcookerFinishGoodQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerLogin.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmcookerMainManu.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerOutPutQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerQuality.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerQualityQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerQueryRepair.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerRepair.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmcookerscdule.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerTimeStudy.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerTimeStudyQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmDBT.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMicroWave.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCOOKEROutPutLine.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmpaint.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmpressier.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmPWH.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FRMTESTONLINE.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginCooker.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmfollowupsv.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainForOutPut.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmqueryfollowUPsv.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFinishGoodWH3.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQFinishGoodWH2.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSony.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginOutP.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmshowdataforfinishgood.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmaddmodelandlebar.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmshow_plan.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFinishGoodWH.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFinishGoodWH22.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQFinishGoodWH3.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainPrograms.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQFinishGoodWH1.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmrdlc.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmShowWash.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterAddData.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterDashBoard.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterFinishGoodMFG.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterFinishGoodMFGQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterLoginP.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterLoginV00.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterMainV00.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterRepairQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterRepairReg.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterScdule.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterStepOneQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterStepOneReg.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterStepThreeQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterStepThreeReg.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterStepTwoOfflinQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterStepTwoOfflinReg.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterStepTwoQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterStepTwoReg.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_out_put.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmEditRe.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmLogenKaizen.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainKaizen.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmReqServ.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmTicketSys.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAddDataLEDBAR.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmPCBInput.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmPCBOutput.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQuery_PCB_Input.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQuery_PCB_Output.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmShowData_PCB.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmNEWtESTrEQ.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryNewtest.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQuerytestforquallity.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmtestforquallity.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorAddNewModel.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorCreateDoor.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorCreateUser.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorLogin.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorShiftEdit.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorMain.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigerator_Body_Completed.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigerator_Body_CompletedQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigerator_outPutLine.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigerator_OutPutLine_B.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigerator_SW_RE.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.RefrigeratorDoorQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.RefrigeratorOutPutQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.test.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmEvaluation.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmLoginRestaurant.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmmefpntr.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmNCANDNM.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmpromassionresturant.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryOnVIPResturant.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmrecipymea0001.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmreportresturant.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRestaurantMain.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRestaurantReceipt.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmrestuarantupdatearea.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmresturantdashboard.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmLEDBAR_Packing.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmResturantQueryUser.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmresturantvib.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmvimrecipitmeal.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_AddDataToRepair.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_AddingNewInformation.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_AddModel.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_AddScdule.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_DashBoard.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_Login.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_Main.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_Output.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_OutputQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_Repair.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_RepairQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryRunRate.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRunRate.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmTVLogin.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAddingNewInformation.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmChosemenu.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmEditNameLaber.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFollowUpLaber.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFollowupQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFollowUpTest.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmLCMRepair.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainRepair.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryFollowUPLaber.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryRepair.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCar_Oil.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmDailyMaintenance_and_garage.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmDailySVShipping.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmDailyTransport_traffic.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmDashBoardTransportTraffic.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmloginTransport_traffic.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainTransport_Traffic.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryTransport_Traffic.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmdashboard.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainWashingMachine.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmrptrdlc2.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmWashingMachineStepInput.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmWashingMachineStepInputQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmWashingMachineStepOutput.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmWashingMachineStepQuery.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmWMDashBoard.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Loginwash.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainQulity.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginQulity.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.rptRdlc.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginTEVP.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.editdata.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFat.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAbout.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmaboutheater.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAddData.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmLCM1.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMain.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmOutp.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQOutp.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmReport.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmGuidance.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_add_new_model.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_main.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Registration__step_four.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Registration__step_one.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Registration__step_three.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Registration__step_two.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Show_Target.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Step_One_Query.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Step_Three_Query.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Step_Two_Query.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.History.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LED_BAR_barcode_structure.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginHeater.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Resources.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.newshowforData.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.NotesForProblems.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.q.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.QueryFat1.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.QueryforQulity.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Qulity_in_Or_out.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.scanningFat1.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.showData.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.ShowTarget.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.ShowTEVP.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.ShowTEVP2.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Target.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginWM2.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.mainWashingMachine.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.vbproj.GenerateResource.cache
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.vbproj.CoreCompileInputs.cache
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.exe.manifest
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.application
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.vbproj.CopyComplete
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.exe
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.xml
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.pdb
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.Office.InfoPath.Permission.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMicrowaveFinishGood.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainToPCB_LEDBAR.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.vbproj.AssemblyReference.cache
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_Input.resources
+F:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_InputQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.exe.config
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.exe.manifest
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.application
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.exe
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.pdb
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Traceability Systems.xml
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\AxShockwaveFlashObjects.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.Shared.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ShockwaveFlashObjects.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\DocumentFormat.OpenXml.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ExcelDataReader.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ExcelDataReader.pdb
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ExcelDataReader.DataSet.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\log4net.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.IdentityModel.Xml.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.Office.InfoPath.Permission.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\Interop.AcroPDFLib.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.vbproj.AssemblyReference.cache
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Interop.AcroPDFLib.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Interop.AgentWmiLib.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Interop.VSTOEE100.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.vbproj.ResolveComReference.cache
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfterSales_AddNewInformation.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfterSales_DashBoard.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfterSales_Login.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfter_Sales_Main.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfter_Sales_Repair.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAfter_Sales_Repair_Query.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTest.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTest1.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTestQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTestQuery1.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTestQuery1Show.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.aquTestTestQueryShow.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmarduino.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmATPM.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmATQ_QueryNew.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCarWQty.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerAddNewInformation.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerAddNewModel.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerDashBoard.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerFinishGood.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmcookerFinishGoodQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerLogin.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmcookerMainManu.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerOutPutQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerQuality.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerQualityQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerQueryRepair.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerRepair.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmcookerscdule.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerTimeStudy.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCookerTimeStudyQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmDBT.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMicroWave.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMicrowaveFinishGood.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCOOKEROutPutLine.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmpaint.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmpressier.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmPWH.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FRMTESTONLINE.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginCooker.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmfollowupsv.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainForOutPut.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmqueryfollowUPsv.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFinishGoodWH3.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQFinishGoodWH2.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSony.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginOutP.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmshowdataforfinishgood.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmaddmodelandlebar.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmshow_plan.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFinishGoodWH.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFinishGoodWH22.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQFinishGoodWH3.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainPrograms.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQFinishGoodWH1.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmrdlc.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmShowWash.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterAddData.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterDashBoard.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterFinishGoodMFG.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterFinishGoodMFGQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterLoginP.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterLoginV00.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterMainV00.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterRepairQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterRepairReg.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterScdule.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterStepOneQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterStepOneReg.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterStepThreeQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterStepThreeReg.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterStepTwoOfflinQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmHeaterStepTwoOfflinReg.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterStepTwoQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmHeaterStepTwoReg.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_out_put.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmEditRe.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmLogenKaizen.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainKaizen.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmReqServ.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmTicketSys.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAddDataLEDBAR.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainToPCB_LEDBAR.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmPCBInput.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmPCBOutput.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQuery_PCB_Input.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQuery_PCB_Output.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmShowData_PCB.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.FrmNEWtESTrEQ.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryNewtest.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQuerytestforquallity.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmtestforquallity.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorAddNewModel.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorCreateDoor.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorCreateUser.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorLogin.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorShiftEdit.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigeratorMain.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigerator_Body_Completed.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigerator_Body_CompletedQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigerator_outPutLine.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigerator_OutPutLine_B.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRefrigerator_SW_RE.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.RefrigeratorDoorQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.RefrigeratorOutPutQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.test.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmEvaluation.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmLoginRestaurant.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmmefpntr.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmNCANDNM.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmpromassionresturant.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryOnVIPResturant.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmrecipymea0001.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmreportresturant.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRestaurantMain.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRestaurantReceipt.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmrestuarantupdatearea.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmresturantdashboard.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmLEDBAR_Packing.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmResturantQueryUser.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmresturantvib.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmvimrecipitmeal.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_AddDataToRepair.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_AddingNewInformation.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_AddModel.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_AddScdule.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_DashBoard.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_Input.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_InputQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_Login.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_Main.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_Output.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_OutputQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_Repair.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmSHA_RepairQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryRunRate.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmRunRate.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmTVLogin.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAddingNewInformation.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmChosemenu.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmEditNameLaber.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFollowUpLaber.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFollowupQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFollowUpTest.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmLCMRepair.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainRepair.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryFollowUPLaber.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryRepair.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmCar_Oil.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmDailyMaintenance_and_garage.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmDailySVShipping.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmDailyTransport_traffic.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmDashBoardTransportTraffic.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmloginTransport_traffic.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainTransport_Traffic.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQueryTransport_Traffic.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmdashboard.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainWashingMachine.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmrptrdlc2.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmWashingMachineStepInput.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmWashingMachineStepInputQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmWashingMachineStepOutput.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmWashingMachineStepQuery.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmWMDashBoard.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Loginwash.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMainQulity.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginQulity.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.rptRdlc.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginTEVP.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.editdata.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmFat.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAbout.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmaboutheater.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmAddData.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmLCM1.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmMain.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmOutp.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmQOutp.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmReport.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.frmGuidance.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_add_new_model.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_main.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Registration__step_four.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Registration__step_one.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Registration__step_three.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Registration__step_two.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Show_Target.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Step_One_Query.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Step_Three_Query.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Heater_Step_Two_Query.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.History.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LED_BAR_barcode_structure.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginHeater.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Resources.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.newshowforData.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.NotesForProblems.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.q.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.QueryFat1.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.QueryforQulity.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Qulity_in_Or_out.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.scanningFat1.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.showData.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.ShowTarget.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.ShowTEVP.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.ShowTEVP2.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.Target.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.LoginWM2.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\TEVPBarcode.mainWashingMachine.resources
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.vbproj.GenerateResource.cache
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.vbproj.CoreCompileInputs.cache
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.exe.manifest
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.application
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.vbproj.CopyComplete
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.exe
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.xml
+C:\TEVPBarcode v.10062019\TEVPBarcode\obj\Debug\Traceability Systems.pdb

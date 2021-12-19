@@ -1,0 +1,133 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\TEVPBarcode v.10062019\\TEVPBarcode\\Traceability Systems.vbproj": {}
+  },
+  "projects": {
+    "C:\\TEVPBarcode v.10062019\\TEVPBarcode\\Traceability Systems.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TEVPBarcode v.10062019\\TEVPBarcode\\Traceability Systems.vbproj",
+        "projectName": "Traceability Systems",
+        "projectPath": "C:\\TEVPBarcode v.10062019\\TEVPBarcode\\Traceability Systems.vbproj",
+        "packagesPath": "C:\\Users\\mrezk06\\.nuget\\packages\\",
+        "outputPath": "C:\\TEVPBarcode v.10062019\\TEVPBarcode\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrezk06\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "dependencies": {
+            "CrystalDecisions.Windows.Forms": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "CrystalReports.Engine": {
+              "target": "Package",
+              "version": "[13.0.4001, )"
+            },
+            "CrystalReports.ReportAppServer.CommLayer": {
+              "target": "Package",
+              "version": "[13.0.4001, )"
+            },
+            "CrystalReports.ReportAppServer.CommonObjectModel": {
+              "target": "Package",
+              "version": "[13.0.4001, )"
+            },
+            "CrystalReports.Windows.Forms": {
+              "target": "Package",
+              "version": "[13.0.4001, )"
+            },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.13.1, )"
+            },
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Microsoft.IdentityModel.Logging": {
+              "target": "Package",
+              "version": "[6.11.1, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.11.1, )"
+            },
+            "Microsoft.IdentityModel.Xml": {
+              "target": "Package",
+              "version": "[6.11.1, )"
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1000, )"
+            },
+            "Microsoft.Reporting.WinForms.v11": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.SqlServer.Types": {
+              "target": "Package",
+              "version": "[14.0.1016.290, )"
+            },
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "System.Xml.ReaderWriter": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "WMPLib": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

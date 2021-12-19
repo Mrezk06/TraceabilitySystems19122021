@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="barcodeDataSet1" targetNamespace="http://tempuri.org/barcodeDataSet1.xsd" xmlns:mstns="http://tempuri.org/barcodeDataSet1.xsd" xmlns="http://tempuri.org/barcodeDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="barcodeConnectionString2" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="barcodeConnectionString2 (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.TEVPBarcode.My.MySettings.GlobalReference.Default.barcodeConnectionString2" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ResturantalldataTableAdapter" GeneratorDataComponentClassName="ResturantalldataTableAdapter" Name="Resturantalldata" UserDataComponentName="ResturantalldataTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="barcodeConnectionString2 (MySettings)" DbObjectName="barcode.dbo.Resturantalldata" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT RDateDay, RMMName, RMPrice, RSap, RName, Expr1 FROM dbo.Resturantalldata</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="RDateDay" DataSetColumn="RDateDay" />
+              <Mapping SourceColumn="RMMName" DataSetColumn="RMMName" />
+              <Mapping SourceColumn="RMPrice" DataSetColumn="RMPrice" />
+              <Mapping SourceColumn="RSap" DataSetColumn="RSap" />
+              <Mapping SourceColumn="RName" DataSetColumn="RName" />
+              <Mapping SourceColumn="Expr1" DataSetColumn="Expr1" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="barcodeDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="barcodeDataSet1" msprop:Generator_UserDSName="barcodeDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Resturantalldata" msprop:Generator_TableClassName="ResturantalldataDataTable" msprop:Generator_TableVarName="tableResturantalldata" msprop:Generator_TablePropName="Resturantalldata" msprop:Generator_RowDeletingName="ResturantalldataRowDeleting" msprop:Generator_RowChangingName="ResturantalldataRowChanging" msprop:Generator_RowEvHandlerName="ResturantalldataRowChangeEventHandler" msprop:Generator_RowDeletedName="ResturantalldataRowDeleted" msprop:Generator_UserTableName="Resturantalldata" msprop:Generator_RowChangedName="ResturantalldataRowChanged" msprop:Generator_RowEvArgName="ResturantalldataRowChangeEvent" msprop:Generator_RowClassName="ResturantalldataRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RDateDay" msprop:Generator_ColumnVarNameInTable="columnRDateDay" msprop:Generator_ColumnPropNameInRow="RDateDay" msprop:Generator_ColumnPropNameInTable="RDateDayColumn" msprop:Generator_UserColumnName="RDateDay" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="RMMName" msprop:Generator_ColumnVarNameInTable="columnRMMName" msprop:Generator_ColumnPropNameInRow="RMMName" msprop:Generator_ColumnPropNameInTable="RMMNameColumn" msprop:Generator_UserColumnName="RMMName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="350" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RMPrice" msprop:Generator_ColumnVarNameInTable="columnRMPrice" msprop:Generator_ColumnPropNameInRow="RMPrice" msprop:Generator_ColumnPropNameInTable="RMPriceColumn" msprop:Generator_UserColumnName="RMPrice" type="xs:decimal" minOccurs="0" />
+              <xs:element name="RSap" msprop:Generator_ColumnVarNameInTable="columnRSap" msprop:Generator_ColumnPropNameInRow="RSap" msprop:Generator_ColumnPropNameInTable="RSapColumn" msprop:Generator_UserColumnName="RSap" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RName" msprop:Generator_ColumnVarNameInTable="columnRName" msprop:Generator_ColumnPropNameInRow="RName" msprop:Generator_ColumnPropNameInTable="RNameColumn" msprop:Generator_UserColumnName="RName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="350" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Expr1" msprop:Generator_ColumnVarNameInTable="columnExpr1" msprop:Generator_ColumnPropNameInRow="Expr1" msprop:Generator_ColumnPropNameInTable="Expr1Column" msprop:Generator_UserColumnName="Expr1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

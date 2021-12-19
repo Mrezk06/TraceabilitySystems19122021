@@ -1,0 +1,287 @@
+C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.exe.config
+C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.exe
+C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.xml
+C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmFat.resources
+C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmGuidance.resources
+C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.History.resources
+C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Login.resources
+C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Resources.resources
+C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.scanningFat1.resources
+C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbproj.GenerateResource.Cache
+C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.exe
+C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.xml
+C:\Users\Mohamed\Documents\Visual Studio 2010\Projects\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.pdb
+C:\Users\Osama\Desktop\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.exe.config
+C:\Users\Osama\Desktop\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.exe
+C:\Users\Osama\Desktop\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.xml
+C:\Users\Osama\Desktop\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.pdb
+E:\M_Rezk\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.exe.config
+E:\M_Rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.exe
+E:\M_Rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.xml
+E:\M_Rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.pdb
+E:\M_Rezk\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.exe
+E:\M_Rezk\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.pdb
+E:\M_Rezk\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.xml
+E:\M_Rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmFat.resources
+E:\M_Rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmGuidance.resources
+E:\M_Rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.History.resources
+E:\M_Rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Login.resources
+E:\M_Rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Resources.resources
+E:\M_Rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.scanningFat1.resources
+E:\M_Rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbproj.GenerateResource.Cache
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.exe.config
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.exe
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.pdb
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.xml
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\bin\Debug\IrisSkin2.dll
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmFat.resources
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAbout.resources
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAddData.resources
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmMain.resources
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmReport.resources
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmGuidance.resources
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.History.resources
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Login.resources
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Resources.resources
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.scanningFat1.resources
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbproj.GenerateResource.Cache
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.exe
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.xml
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.pdb
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbprojResolveAssemblyReference.cache
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.LED_BAR_barcode_structure.resources
+F:\barcode\Update_002\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.q.resources
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmFat.resources
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAbout.resources
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAddData.resources
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmMain.resources
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmOutp.resources
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmQOutp.resources
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmReport.resources
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmGuidance.resources
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.History.resources
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.LED_BAR_barcode_structure.resources
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Login.resources
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Resources.resources
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.q.resources
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.scanningFat1.resources
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\rezk\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.exe.config
+F:\rezk\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.exe
+F:\rezk\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.pdb
+F:\rezk\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.xml
+F:\rezk\TEVPBarcode\TEVPBarcode\bin\Debug\IrisSkin2.dll
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.exe
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.xml
+F:\rezk\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.pdb
+E:\لبي\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.exe.config
+E:\لبي\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.exe
+E:\لبي\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.pdb
+E:\لبي\TEVPBarcode\TEVPBarcode\bin\Debug\TEVPBarcode.xml
+E:\لبي\TEVPBarcode\TEVPBarcode\bin\Debug\IrisSkin2.dll
+E:\لبي\TEVPBarcode\TEVPBarcode\bin\Debug\stdole.dll
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmFat.resources
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAbout.resources
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAddData.resources
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmMain.resources
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmOutp.resources
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmQOutp.resources
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmReport.resources
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmGuidance.resources
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.History.resources
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.LED_BAR_barcode_structure.resources
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Login.resources
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Resources.resources
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.q.resources
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.scanningFat1.resources
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbproj.GenerateResource.Cache
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.exe
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.xml
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.pdb
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Qulity_in_Or_out.resources
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbprojResolveAssemblyReference.cache
+E:\لبي\TEVPBarcode\TEVPBarcode\obj\x86\Debug\TEVPBarcode.QueryforQulity.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.exe.config
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.exe
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.pdb
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.xml
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\bin\Debug\IrisSkin2.dll
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\bin\Debug\stdole.dll
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbprojResolveAssemblyReference.cache
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmFat.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAbout.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAddData.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmMain.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmOutp.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmQOutp.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmReport.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmGuidance.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.History.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.LED_BAR_barcode_structure.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Login.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Resources.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.q.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.QueryforQulity.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Qulity_in_Or_out.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.scanningFat1.resources
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbproj.GenerateResource.Cache
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.exe
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.xml
+E:\لبي\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.pdb
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.exe.config
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.exe
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.pdb
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.xml
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\bin\Debug\IrisSkin2.dll
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\bin\Debug\stdole.dll
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmFat.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAbout.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAddData.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmLCM1.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmMain.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmOutp.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmQOutp.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmReport.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmGuidance.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.History.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.LED_BAR_barcode_structure.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Login.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Resources.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.NotesForProblems.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.q.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.QueryforQulity.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Qulity_in_Or_out.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.scanningFat1.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbproj.GenerateResource.Cache
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.exe
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.xml
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.pdb
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbprojResolveAssemblyReference.cache
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.QueryFat1.resources
+C:\Users\Mohammed\Desktop\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Target.resources
+F:\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.exe.config
+F:\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.exe
+F:\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.pdb
+F:\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.xml
+F:\TEVPBarcode v.2\TEVPBarcode\bin\Debug\IrisSkin2.dll
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.editdata.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmFat.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAbout.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAddData.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmLCM1.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmMain.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmOutp.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmQOutp.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmReport.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmGuidance.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.History.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.LED_BAR_barcode_structure.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Login.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Resources.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.NotesForProblems.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.q.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.QueryFat1.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.QueryforQulity.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Qulity_in_Or_out.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.scanningFat1.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.ShowTarget.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Target.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbproj.GenerateResource.Cache
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.exe
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.xml
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.pdb
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbprojResolveAssemblyReference.cache
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.showData.resources
+F:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.newshowforData.resources
+E:\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.exe.config
+E:\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.exe
+E:\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.pdb
+E:\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.xml
+E:\TEVPBarcode v.2\TEVPBarcode\bin\Debug\IrisSkin2.dll
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbprojResolveAssemblyReference.cache
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.editdata.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmFat.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAbout.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAddData.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmLCM1.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmMain.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmOutp.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmQOutp.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmReport.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmGuidance.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.History.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.LED_BAR_barcode_structure.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Login.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Resources.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.newshowforData.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.NotesForProblems.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.q.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.QueryFat1.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.QueryforQulity.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Qulity_in_Or_out.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.scanningFat1.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.showData.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.ShowTarget.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Target.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbproj.GenerateResource.Cache
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.exe
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.xml
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.pdb
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Heater_add_new_model.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Heater_Registration__step_three.resources
+E:\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Heater_Registration__step_two.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.exe.config
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.exe
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.pdb
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\bin\Debug\TEVPBarcode.xml
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\bin\Debug\IrisSkin2.dll
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.editdata.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmFat.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAbout.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmaboutheater.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmAddData.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmLCM1.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmMain.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmOutp.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmQOutp.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmReport.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmGuidance.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Heater_add_new_model.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Heater_main.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Heater_Registration__step_one.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Heater_Registration__step_three.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Heater_Registration__step_two.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Heater_Show_Target.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Heater_Step_One_Query.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Heater_Step_Three_Query.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Heater_Step_Two_Query.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.History.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.LED_BAR_barcode_structure.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Resources.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.newshowforData.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.NotesForProblems.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.q.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.QueryFat1.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.QueryforQulity.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Qulity_in_Or_out.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.scanningFat1.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.showData.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.ShowTarget.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.ShowTEVP.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Target.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbproj.GenerateResource.Cache
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.exe
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.xml
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.pdb
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.ShowTEVP2.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.Heater_Registration__step_four.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.LoginTEVP.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.LoginHeater.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmMainForOutPut.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.LoginOutP.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.frmMainQulity.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.LoginQulity.resources
+E:\Heater App\TEVPBarcode v.2\TEVPBarcode\obj\x86\Debug\TEVPBarcode.vbprojResolveAssemblyReference.cache

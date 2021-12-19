@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet2" targetNamespace="http://tempuri.org/DataSet2.xsd" xmlns:mstns="http://tempuri.org/DataSet2.xsd" xmlns="http://tempuri.org/DataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="barcodeConnectionString2" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="barcodeConnectionString2 (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.TEVPBarcode.My.MySettings.GlobalReference.Default.barcodeConnectionString2" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet2" msprop:Generator_UserDSName="DataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Evaluation" msprop:Generator_TableClassName="EvaluationDataTable" msprop:Generator_TableVarName="tableEvaluation" msprop:Generator_TablePropName="Evaluation" msprop:Generator_RowDeletingName="EvaluationRowDeleting" msprop:Generator_RowChangingName="EvaluationRowChanging" msprop:Generator_RowEvHandlerName="EvaluationRowChangeEventHandler" msprop:Generator_RowDeletedName="EvaluationRowDeleted" msprop:Generator_UserTableName="Evaluation" msprop:Generator_RowChangedName="EvaluationRowChanged" msprop:Generator_RowEvArgName="EvaluationRowChangeEvent" msprop:Generator_RowClassName="EvaluationRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RDate" msprop:Generator_ColumnVarNameInTable="columnRDate" msprop:Generator_ColumnPropNameInRow="RDate" msprop:Generator_ColumnPropNameInTable="RDateColumn" msprop:Generator_UserColumnName="RDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="fname" msprop:Generator_ColumnVarNameInTable="columnfname" msprop:Generator_ColumnPropNameInRow="fname" msprop:Generator_ColumnPropNameInTable="fnameColumn" msprop:Generator_UserColumnName="fname" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Expr1" msprop:Generator_ColumnVarNameInTable="columnExpr1" msprop:Generator_ColumnPropNameInRow="Expr1" msprop:Generator_ColumnPropNameInTable="Expr1Column" msprop:Generator_UserColumnName="Expr1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RNote" msprop:Generator_ColumnVarNameInTable="columnRNote" msprop:Generator_ColumnPropNameInRow="RNote" msprop:Generator_ColumnPropNameInTable="RNoteColumn" msprop:Generator_UserColumnName="RNote" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="550" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RName" msprop:Generator_ColumnVarNameInTable="columnRName" msprop:Generator_ColumnPropNameInRow="RName" msprop:Generator_ColumnPropNameInTable="RNameColumn" msprop:Generator_UserColumnName="RName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RPosation" msprop:Generator_ColumnVarNameInTable="columnRPosation" msprop:Generator_ColumnPropNameInRow="RPosation" msprop:Generator_ColumnPropNameInTable="RPosationColumn" msprop:Generator_UserColumnName="RPosation" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RMMName" msprop:Generator_ColumnVarNameInTable="columnRMMName" msprop:Generator_ColumnPropNameInRow="RMMName" msprop:Generator_ColumnPropNameInTable="RMMNameColumn" msprop:Generator_UserColumnName="RMMName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="350" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RMMID" msprop:Generator_ColumnVarNameInTable="columnRMMID" msprop:Generator_ColumnPropNameInRow="RMMID" msprop:Generator_ColumnPropNameInTable="RMMIDColumn" msprop:Generator_UserColumnName="RMMID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
